@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho em Banco desenvolvendo projetos em **Python e parametrizando em sistemas**
 
-- 🌱 Atualmente cursando pós-graduação em **Data Science & Analytics**
+- 🌱 Cursando pós-graduação em **Data Science & Analytics**
 
 - 👯 Também já realizei projetos de modelos de Machine Learning **em Python e R**
 
